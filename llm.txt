@@ -1,0 +1,15 @@
+# Klyssel Labs
+
+> Building Smarter Digital Futures. End-to-end digital solutions spanning advanced data analytics, AI integrations, custom software development, and full-funnel digital marketing.
+
+## Core Capabilities
+
+- **Data Analytics & Web Scraping:** High-scale, bypass-resilient web data extraction, pipeline engineering, and business intelligence.
+- **AI & Intelligent Automation:** Custom machine learning frameworks, LLM integrations, and context-aware conversational agents/chatbots.
+- **Software Engineering:** High-performance, scalable web applications, custom software builds, and resilient backend architecture.
+- **Digital Marketing & Growth:** Performance marketing, comprehensive SEO strategy, and social media marketing engineered to drive user acquisition and maximize ROI.
+- **Custom Web Development:** Designing high-performance, responsive websites, and resilient backend architecture tailored to specific business workflows.
+
+## Official Brand Credentials
+- Website: https://klyssel.com
+- Contact: hello@klyssel.com
